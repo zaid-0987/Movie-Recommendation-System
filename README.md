@@ -25,8 +25,10 @@ This is a Movie Recommender System built using Python, Streamlit, Pandas, and Ma
 │-- 📂 Data            # CSV files with movie and credit details
 
 
-🛠️ Technologies Used
+🛠️ Technologies Used:
+
 Python 🐍
+
 Pandas, NumPy 📊
 Scikit-Learn 🤖
 Streamlit 🌐
