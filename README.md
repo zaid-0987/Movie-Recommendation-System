@@ -16,6 +16,7 @@ This is a Movie Recommender System built using Python, Streamlit, Pandas, and Ma
 
 
 📂 Project Structure
+
 📁 Movie-Recommender
 │-- 📜 App.py          # Streamlit app for UI and recommendations
 │-- 📜 Movie.py        # Data processing and similarity calculation
@@ -24,12 +25,14 @@ This is a Movie Recommender System built using Python, Streamlit, Pandas, and Ma
 │-- 📂 Data            # CSV files with movie and credit details
 
 🛠️ Technologies Used
+
 Python 🐍
 Pandas, NumPy 📊
 Scikit-Learn 🤖
 Streamlit 🌐
 Pickle 📦
 TMDb API 🎥
+
 🔧 Setup & Installation
 1️⃣ Clone the repository:
 
@@ -44,6 +47,7 @@ streamlit run App.py
 (Add screenshots of your app UI here)
 
 💡 How It Works
+
 Select a movie from the dropdown list.
 Click on the "Recommend" button.
 The system displays 5 recommended movies along with their posters.
