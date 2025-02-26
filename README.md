@@ -1,4 +1,4 @@
-🎬 Movie Recommender System
+# 🎬 Movie Recommender System
 This is a Movie Recommender System built using Python, Streamlit, Pandas, and Machine Learning techniques. It suggests movies based on user preferences using cosine similarity and natural language processing (NLP).
 
 🚀 Features
@@ -24,14 +24,15 @@ This is a Movie Recommender System built using Python, Streamlit, Pandas, and Ma
 │-- 📜 similarity.pkl  # Precomputed similarity matrix
 │-- 📂 Data            # CSV files with movie and credit details
 
-🛠️ Technologies Used
 
+🛠️ Technologies Used
 Python 🐍
 Pandas, NumPy 📊
 Scikit-Learn 🤖
 Streamlit 🌐
 Pickle 📦
 TMDb API 🎥
+
 
 🔧 Setup & Installation
 1️⃣ Clone the repository:
